@@ -1,0 +1,12 @@
+    <item>
+      <title>GitHub Runner 1.2.0</title>
+      <link>https://github.com/SaschaHenning/mac-runner-releases</link>
+      <sparkle:version>1.2.0</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 27 Aug 2026 11:48:12 +0000</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/SaschaHenning/mac-runner-releases/main/releases/GitHub-Runner-1.2.0.zip"
+                 sparkle:edSignature="jwiFalGHb6mQrsqFDABMABhf1sMmDQ7f8p4rF2spb/eI+zxi8K3lC62vPMGi/F8VKen9+6vd9CQrwEL2dk9QBg=="
+                 length="3435317"
+                 type="application/octet-stream"/>
+    </item>
