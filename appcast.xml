@@ -8,6 +8,25 @@
     <description>Updates for GitHub Runner.</description>
     <language>en</language>
     <item>
+      <title>GitHub Runner 1.2.3</title>
+      <link>https://github.com/SaschaHenning/mac-runner-releases</link>
+      <sparkle:version>1.2.3</sparkle:version>
+      <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 07 Sep 2026 07:29:51 +0000</pubDate>
+      <description><![CDATA[
+<h3>What's Changed</h3>
+<ul>
+<li>ci(release): drop the ~/bin workaround — the installed app carries #43 by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/47</li>
+</ul>
+<p>**Full Changelog**: https://github.com/SaschaHenning/mac-runner/compare/v1.2.2...v1.2.3</p>
+      ]]></description>
+      <enclosure url="https://raw.githubusercontent.com/SaschaHenning/mac-runner-releases/main/releases/GitHub-Runner-1.2.3.zip"
+                 sparkle:edSignature="EZW4f7ayi3b+v4acl6q8IHSDKaxcgQ2U10IFj62dQeqb/+xEGmB6fS7R229wPSv7u5hzDKXKXctbQrTXkzNEBg=="
+                 length="3519062"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>GitHub Runner 1.2.2</title>
       <link>https://github.com/SaschaHenning/mac-runner-releases</link>
       <sparkle:version>1.2.2</sparkle:version>
