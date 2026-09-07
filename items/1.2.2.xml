@@ -1,0 +1,20 @@
+    <item>
+      <title>GitHub Runner 1.2.2</title>
+      <link>https://github.com/SaschaHenning/mac-runner-releases</link>
+      <sparkle:version>1.2.2</sparkle:version>
+      <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 07 Sep 2026 07:19:08 +0000</pubDate>
+      <description><![CDATA[
+<h3>What's Changed</h3>
+<ul>
+<li>Jobs get the PATH of the login shell (#43) by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/45</li>
+<li>ci(release): keep ~/bin on PATH until the installed app carries #43 by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/46</li>
+</ul>
+<p>**Full Changelog**: https://github.com/SaschaHenning/mac-runner/compare/v1.2.1...v1.2.2</p>
+      ]]></description>
+      <enclosure url="https://raw.githubusercontent.com/SaschaHenning/mac-runner-releases/main/releases/GitHub-Runner-1.2.2.zip"
+                 sparkle:edSignature="UQRFDxCJ1YPuKo5qe2h2XFkrBQ7SySOANkafgsyZELiKpl+2UiZ9iJgi1UgWC3oSTSI/5+6nFVzQolMs/WO5Ag=="
+                 length="3519039"
+                 type="application/octet-stream"/>
+    </item>
