@@ -8,6 +8,25 @@
     <description>Updates for GitHub Runner.</description>
     <language>en</language>
     <item>
+      <title>GitHub Runner 1.2.4</title>
+      <link>https://github.com/SaschaHenning/mac-runner-releases</link>
+      <sparkle:version>1.2.4</sparkle:version>
+      <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 25 Sep 2026 08:55:18 +0000</pubDate>
+      <description><![CDATA[
+<h3>What's Changed</h3>
+<ul>
+<li>fix: take idle runners offline before the Mac sleeps by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/51</li>
+</ul>
+<p>**Full Changelog**: https://github.com/SaschaHenning/mac-runner/compare/v1.2.3...v1.2.4</p>
+      ]]></description>
+      <enclosure url="https://raw.githubusercontent.com/SaschaHenning/mac-runner-releases/main/releases/GitHub-Runner-1.2.4.zip"
+                 sparkle:edSignature="dcemY9kyM5VHooTAySw0LsP2hp192fD/fSMhDqNpuxk6fFkuHBsKJ/cge87J0JZXwPbm9s7Icb0cSXhGF1STBQ=="
+                 length="3589729"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>GitHub Runner 1.2.3</title>
       <link>https://github.com/SaschaHenning/mac-runner-releases</link>
       <sparkle:version>1.2.3</sparkle:version>
