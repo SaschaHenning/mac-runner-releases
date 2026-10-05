@@ -1,0 +1,19 @@
+    <item>
+      <title>GitHub Runner 1.2.8</title>
+      <link>https://github.com/SaschaHenning/mac-runner-releases</link>
+      <sparkle:version>1.2.8</sparkle:version>
+      <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 05 Oct 2026 14:17:56 +0000</pubDate>
+      <description><![CDATA[
+<h3>What's Changed</h3>
+<ul>
+<li>fix: merge a docker runner's stdout and stderr in time order (#52) by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/58</li>
+</ul>
+<p>**Full Changelog**: https://github.com/SaschaHenning/mac-runner/compare/v1.2.6...v1.2.8</p>
+      ]]></description>
+      <enclosure url="https://raw.githubusercontent.com/SaschaHenning/mac-runner-releases/main/releases/GitHub-Runner-1.2.8.zip"
+                 sparkle:edSignature="P952rE+aZN3l5ihIpO/NyooyAe0ez2wm2mAdhZTp3I2oc0JC0j7IGutyjGzw1jlbNoxBHlMUwgupuQLADLVLDA=="
+                 length="3611700"
+                 type="application/octet-stream"/>
+    </item>
