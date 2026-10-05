@@ -8,6 +8,25 @@
     <description>Updates for GitHub Runner.</description>
     <language>en</language>
     <item>
+      <title>GitHub Runner 1.2.5</title>
+      <link>https://github.com/SaschaHenning/mac-runner-releases</link>
+      <sparkle:version>1.2.5</sparkle:version>
+      <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 05 Oct 2026 12:18:42 +0000</pubDate>
+      <description><![CDATA[
+<h3>What's Changed</h3>
+<ul>
+<li>fix: keep the reconcile pass short so pause and status show at once by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/55</li>
+</ul>
+<p>**Full Changelog**: https://github.com/SaschaHenning/mac-runner/compare/v1.2.4...v1.2.5</p>
+      ]]></description>
+      <enclosure url="https://raw.githubusercontent.com/SaschaHenning/mac-runner-releases/main/releases/GitHub-Runner-1.2.5.zip"
+                 sparkle:edSignature="NKYy5sgNQJ7YSjMeHlIWDLBm3STUo4RwMPLlNWVhy1gkkYXr/3p2WxOeIdkFqEmpBXqxufjAQ+Y1VNFvsho6Bw=="
+                 length="3596773"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>GitHub Runner 1.2.4</title>
       <link>https://github.com/SaschaHenning/mac-runner-releases</link>
       <sparkle:version>1.2.4</sparkle:version>
