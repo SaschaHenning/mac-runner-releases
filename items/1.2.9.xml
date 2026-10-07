@@ -1,0 +1,19 @@
+    <item>
+      <title>GitHub Runner 1.2.9</title>
+      <link>https://github.com/SaschaHenning/mac-runner-releases</link>
+      <sparkle:version>1.2.9</sparkle:version>
+      <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 07 Oct 2026 07:45:14 +0000</pubDate>
+      <description><![CDATA[
+<h3>What's Changed</h3>
+<ul>
+<li>fix: stop restarting runners whose registration GitHub deleted (#59) by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/60</li>
+</ul>
+<p>**Full Changelog**: https://github.com/SaschaHenning/mac-runner/compare/v1.2.8...v1.2.9</p>
+      ]]></description>
+      <enclosure url="https://raw.githubusercontent.com/SaschaHenning/mac-runner-releases/main/releases/GitHub-Runner-1.2.9.zip"
+                 sparkle:edSignature="weW3v/j11Y0sH6HXttzOQE4SMcflAt1O1OyowTZp2gQGhbpHlfAODkLRsZkdgecEDIKObZCX6Bbl1uhciYMYDg=="
+                 length="3617452"
+                 type="application/octet-stream"/>
+    </item>
