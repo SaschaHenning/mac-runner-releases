@@ -1,0 +1,19 @@
+    <item>
+      <title>GitHub Runner 1.3.1</title>
+      <link>https://github.com/SaschaHenning/mac-runner-releases</link>
+      <sparkle:version>1.3.1</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 07 Oct 2026 11:51:16 +0000</pubDate>
+      <description><![CDATA[
+<h3>What's Changed</h3>
+<ul>
+<li>fix: say whether macOS shows the app's notifications, and why not (#69) by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/70</li>
+</ul>
+<p>**Full Changelog**: https://github.com/SaschaHenning/mac-runner/compare/v1.3.0...v1.3.1</p>
+      ]]></description>
+      <enclosure url="https://raw.githubusercontent.com/SaschaHenning/mac-runner-releases/main/releases/GitHub-Runner-1.3.1.zip"
+                 sparkle:edSignature="0IZNK7iUgrXARfdYV1jwAQRiNceQI6H39xAKQdEVe3y5grCCgcBTgmA02nvvaZCsgiwk25SiA99ibt1O+wz9Dg=="
+                 length="3664272"
+                 type="application/octet-stream"/>
+    </item>
