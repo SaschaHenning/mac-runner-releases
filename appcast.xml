@@ -8,6 +8,25 @@
     <description>Updates for GitHub Runner.</description>
     <language>en</language>
     <item>
+      <title>GitHub Runner 1.5.0</title>
+      <link>https://github.com/SaschaHenning/mac-runner-releases</link>
+      <sparkle:version>1.5.0</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 29 Oct 2026 19:41:34 +0000</pubDate>
+      <description><![CDATA[
+<h3>What's Changed</h3>
+<ul>
+<li>feat: CPU limit per Docker runner and ephemeral runners by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/75</li>
+</ul>
+<p>**Full Changelog**: https://github.com/SaschaHenning/mac-runner/compare/v1.4.0...v1.5.0</p>
+      ]]></description>
+      <enclosure url="https://raw.githubusercontent.com/SaschaHenning/mac-runner-releases/main/releases/GitHub-Runner-1.5.0.zip"
+                 sparkle:edSignature="NPiBBUEp5AKUWZi27BU7axpMk4F2OypmK/dVZV7ysOezQb3mYUg7QBx4EF2K/lmK1RO1dPr1i9BhXYFkqhLQCw=="
+                 length="4057334"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>GitHub Runner 1.4.0</title>
       <link>https://github.com/SaschaHenning/mac-runner-releases</link>
       <sparkle:version>1.4.0</sparkle:version>
