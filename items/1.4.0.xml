@@ -1,0 +1,21 @@
+    <item>
+      <title>GitHub Runner 1.4.0</title>
+      <link>https://github.com/SaschaHenning/mac-runner-releases</link>
+      <sparkle:version>1.4.0</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 29 Oct 2026 16:31:31 +0000</pubDate>
+      <description><![CDATA[
+<h3>What's Changed</h3>
+<ul>
+<li>fix: keep the docker runner work directory on the Docker VM's disk by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/72</li>
+<li>fix: rename the work folder test (Stage build of #72 failed) by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/73</li>
+<li>feat: local runner API and MCP server for AI agents by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/74</li>
+</ul>
+<p>**Full Changelog**: https://github.com/SaschaHenning/mac-runner/compare/v1.3.1...v1.4.0</p>
+      ]]></description>
+      <enclosure url="https://raw.githubusercontent.com/SaschaHenning/mac-runner-releases/main/releases/GitHub-Runner-1.4.0.zip"
+                 sparkle:edSignature="kpCBnPmNu0+GBttEkjXy5SC2hfeuZd/Epq5Lmz+nBhRDEdOb4dmmxLJsanKYbkFLILs72k8VYalV6DbDutOPDg=="
+                 length="3963928"
+                 type="application/octet-stream"/>
+    </item>
