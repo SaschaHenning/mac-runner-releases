@@ -1,0 +1,21 @@
+    <item>
+      <title>GitHub Runner 1.6.0</title>
+      <link>https://github.com/SaschaHenning/mac-runner-releases</link>
+      <sparkle:version>1.6.0</sparkle:version>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 31 Oct 2026 11:48:32 +0000</pubDate>
+      <description><![CDATA[
+<h3>What's Changed</h3>
+<ul>
+<li>docs: state runner-control works only on the Mac by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/77</li>
+<li>feat: AI Agents settings page for the local API and MCP by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/78</li>
+<li>docs: note the shared artifact quota trap by @SaschaHenning in https://github.com/SaschaHenning/mac-runner/pull/79</li>
+</ul>
+<p>**Full Changelog**: https://github.com/SaschaHenning/mac-runner/compare/v1.5.0...v1.6.0</p>
+      ]]></description>
+      <enclosure url="https://raw.githubusercontent.com/SaschaHenning/mac-runner-releases/main/releases/GitHub-Runner-1.6.0.zip"
+                 sparkle:edSignature="EiPdLC8k4Pl4Scytn24WIFPcHxs4Iyr2y0NqSQXTkt/fEo43wiDTSnbfaerePdBiEIrKToArAohjProlVNIDAg=="
+                 length="4206945"
+                 type="application/octet-stream"/>
+    </item>
